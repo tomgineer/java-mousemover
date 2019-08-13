@@ -1,8 +1,8 @@
-# Mousemover v1.0
+# Mousemover
 
 ## Java Mouse Mover for your computer
 
-![Javalytics Logo](https://github.com/tomsnews/mousemover/blob/master/logo.png)
+![MouseMover Logo](https://github.com/tomsnews/mousemover/blob/master/logo.png)
 
 Sometimes "Smart" administrators track your mouse movements. Let't give them your "data".
 
